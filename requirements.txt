@@ -1,0 +1,11 @@
+json5==0.9.5
+requests
+backports.shutil-get-terminal-size==1.0.0
+requests_toolbelt
+beautifulsoup4
+selenium
+webdriver_manager
+urllib3
+stringcase
+pathlib
+psycopg2
